@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "flycorecctv:block/camera" },
+    "facing=east":  { "model": "flycorecctv:block/camera", "y": 90 },
+    "facing=south": { "model": "flycorecctv:block/camera", "y": 180 },
+    "facing=west":  { "model": "flycorecctv:block/camera", "y": 270 }
+  }
+}
